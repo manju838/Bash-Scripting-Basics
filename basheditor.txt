@@ -1,0 +1,1 @@
+Hi, I am Manjunadh Kandavalli and this is a script for using Bash terminal as our text editor.Whatever I write here is saved into a file basheditor.txt
